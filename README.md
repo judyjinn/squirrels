@@ -1,4 +1,4 @@
-# squirrels
+# squirrels_wall_jump
 MATLAB and R code for squirrels wall jumping
 
 Experiment: assess the kinematics of squirrels performing wall jumps
